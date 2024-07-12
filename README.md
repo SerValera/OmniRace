@@ -1,5 +1,6 @@
 # OmniRace: 6D Hand Pose Estimation for Intuitive Guidance of Racing Drone
 
+The repository is under preparation. 
 
 ### Abstract
 
